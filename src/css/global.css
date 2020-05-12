@@ -1,0 +1,10 @@
+body {
+  background-color: #f6f7f9;
+  color: #323233;
+  font-size: 16px;
+  font-family: PingFang SC, 'Helvetica Neue', Arial, sans-serif;
+}
+.paddingBox{
+  padding:10px;
+  font-size:0.9em;
+}
